@@ -11,7 +11,7 @@ namespace MongoDBLock
 {
   public class MongoDBLockSolution : IWorkerSolution
   {
-    private const string ConnectionString = "mongodb://localhost:27017/workerProblem";
+    private const string ConnectionString = "mongodb://localhost:27017/workerProblemLocks";
 
     static MongoDBLockSolution()
     {

@@ -58,6 +58,7 @@
     <Compile Include="ExclusiveLockEngine.cs" />
     <Compile Include="Interfaces\IExclusiveLock.cs" />
     <Compile Include="Interfaces\IExclusiveLockEngine.cs" />
+    <Compile Include="MongoDBAtomicReplaceSolution.cs" />
     <Compile Include="MongoDBLockSolution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils.cs" />
